@@ -11,7 +11,7 @@ yield(collection[i])
   end
   
   if
-block_return_values.includes?
+block_return_values.include?
 (false)
     false
   else
