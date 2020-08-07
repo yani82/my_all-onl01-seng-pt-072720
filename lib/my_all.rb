@@ -10,7 +10,6 @@ yield(collection[i])
     i = i + 1 
   end
   
-def my_all?(collection)
   if
 block_return_values.include?
 (false)
@@ -18,4 +17,5 @@ block_return_values.include?
   else
     true
   end
+  collection
 end
