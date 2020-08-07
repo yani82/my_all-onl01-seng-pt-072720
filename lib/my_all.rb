@@ -7,5 +7,5 @@ collection.length
 yield(collection[i])
     i = i + 1
   end
-  
+end
  
