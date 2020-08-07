@@ -9,7 +9,6 @@ collection.length
 yield(collection[i])
     i = i + 1 
   end
-  
   if
 block_return_values.include?
 (false)
@@ -17,5 +16,4 @@ block_return_values.include?
   else
     true
   end
-  collection
 end
