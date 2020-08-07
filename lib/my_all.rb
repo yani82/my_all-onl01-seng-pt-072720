@@ -16,5 +16,4 @@ block_return_values.include?
   else
     true
   end
-  collection
 end
